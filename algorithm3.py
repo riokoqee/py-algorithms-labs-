@@ -6,4 +6,4 @@ circumference = 2 * math.pi * radius
 area = math.pi * radius ** 2
 
 print(f"Circumference of a circle of radius {radius} is {circumference}")
-print(f"Area of a circle of radius {radius} is {area}")
+print(f"Area of a circle of radius {radius} is {area}") # area output
